@@ -28,3 +28,7 @@ for ( const prop in computer1){
 }
 // delete computer1.processor;
 // console.log(computer1);
+
+for ( const prop in computer1){
+    console.log(prop);
+}
