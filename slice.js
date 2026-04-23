@@ -23,3 +23,8 @@ console.log(fullName2);
 
 // includes
 console.log(second.includes('a'));
+
+
+
+
+const biraniKhor = [ 'Rahim', ' Kahim', ' dahim', ' lahim', ' fahim', ' sahim' ];
